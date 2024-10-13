@@ -13,7 +13,7 @@ const Home = () => {
                 {/*text*/}
                 <div className="text-center xl:text-left order-2 xl:order-none">
                     <span className="text-xl">Full Stack Developer</span>
-                    <h1 className="h1 mb-6">Hello I'm <br /> <span className="text-accent">Shraddha Shukla</span></h1>
+                    <h1 className="h1 mb-6">Hello I&apos;m <br /> <span className="text-accent">Shraddha Shukla</span></h1>
                     <p className="max-w-[500px] mb-9 text-white/80">I excel in making websites and I am proficient in various technologies and also learning LLM.</p>
                     {/*btn and socials */}
                     <div className="flex flex-col xl:flex-row items-center gap-8">
